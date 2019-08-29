@@ -15,7 +15,7 @@ export interface Subject {
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular';
+  name = 'Hey Angular We are using Angular Reactive Forms';
 
   visible = true;
   selectable = true;
